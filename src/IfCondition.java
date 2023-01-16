@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class IfCondition {
     public static void main(String[] args) {
 
-        Scanner andhika = new Scanner(System.in);
+        Scanner afifah = new Scanner(System.in);
         System.out.println("Input Passwoard :");
-        String passwoard = andhika.nextLine();
+        String passwoard = afifah.nextLine();
         if (passwoard.equals("abcdef")) {
             System.out.println("Passwoard benar");
         }else{

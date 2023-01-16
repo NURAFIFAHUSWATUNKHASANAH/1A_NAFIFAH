@@ -6,6 +6,7 @@ public class LiveCoding6 {
         System.out.println(" masukan angka 1= ");
         int angka1= afifah.nextInt();
         System.out.println(" masukan angka 2= ");
-        int angka2
+        int angka2= afifah.nextInt();
+
     }
 }

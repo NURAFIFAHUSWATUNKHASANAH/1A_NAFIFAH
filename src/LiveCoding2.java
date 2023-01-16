@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class LiveCoding2 {
     public static void main(String[] args) {
+        Scanner afifah= new Scanner(System.in);
         int[]angka= new int[3];//3 cell- indexnya mulai dari 0 sampai 2
         String[] nama= new String[4];//4 cell -indexnya mulai 0 sampai 3
 

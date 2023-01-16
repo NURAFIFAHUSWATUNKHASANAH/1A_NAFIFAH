@@ -40,7 +40,7 @@ public class jawabanUTS {
         System.out.println("-----------------------------------------------------");
 
     }
-    public static void ChekIndexArray(String[] myArray,String kendaraan){
+    public static void  ChekIndexArray(String[] myArray,String kendaraan){
         int indexNow = 0;
         for (int index =0 ; index< myArray.length;index++){
             if (myArray[index] != null){

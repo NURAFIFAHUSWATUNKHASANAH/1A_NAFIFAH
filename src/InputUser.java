@@ -5,11 +5,11 @@ public class InputUser {
         //Scanner
         String studentName;
         int studentAge;
-        Scanner hasan = new Scanner(System.in);
+        Scanner afifah = new Scanner(System.in);
         System.out.println("Input Fullname : ");
-        studentName = hasan.nextLine();
+        studentName = afifah.nextLine();
         System.out.println("InputAge : ");
-        studentAge = hasan.nextInt();
+        studentAge = afifah.nextInt();
         System.out.println("Your Fullname is" + studentName);
         System.out.println("Your Age is" + studentAge);
 
